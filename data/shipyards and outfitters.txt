@@ -88,6 +88,7 @@ outfitter hai
 	"Railgun Slug"
 	"Tracker Storage Pod"
 	"Quantum Keystone"
+	"Pulse Rifle"
 
 outfitter human
 	"Energy Blaster"
@@ -160,7 +161,6 @@ outfitter human
 	"Sidewinder Missile"
 	"Javelin"
 	"Heavy Rocket"
-	"Cargo Scanner"
 	"Small Radar Jammer"
 	"Large Radar Jammer"
 	"Blaster Turret"
@@ -171,7 +171,6 @@ outfitter human
 	"Torpedo Launcher"
 	"Beam Laser"
 	"Afterburner"
-	"Outfit Scanner"
 	"Supercapacitor"
 	"Security Station"
 	"Laser Rifle"
@@ -266,6 +265,8 @@ outfitter korath
 	"Control Transceiver"
 	"Korath Piercer Rack"
 	"Korath Mine Rack"
+	"Korath Repeater Rifle"
+	"Fuel Processor"
 
 outfitter quarg
 	"Nanotech Battery"
@@ -304,11 +305,15 @@ outfitter wanderer
 	"Wanderer Ramscoop"
 	"Wanderer Heat Sink"
 	"Thunderhead Storage Array"
+	"Moonbeam"
+	"Moonbeam Turret"
 
 outfitter remnant
 	"Inhibitor Cannon"
 	"Thrasher Cannon"
 	"Thrasher Turret"
+	"EMP Torpedo Bay"
+	"EMP Torpedo"
 	"Point Defense Turret"
 	"Crystal Capacitor"
 	"Millennium Cell"
@@ -323,9 +328,10 @@ outfitter remnant
 	"Forge-Class Steering"
 	"Smelter-Class Thruster"
 	"Smelter-Class Steering"
+	"Tuning Rifle"
 
 outfitter void
-	Mouthparts?
+	"Mouthparts?"
 
 outfitter drive
 	"Developer Drive"
@@ -353,6 +359,13 @@ outfitter basic
 	"Titanium"
 	"Tungsten"
 	"Uranium"
+	"Outfit Scanner"
+	"Cargo Scanner"
+	"Tactical Scanner"
+	"Asteroid Scanner"
+	"Surveillance Pod"
+	"Brig"
+	"Luxury Accommodations"
 
 shipyard deprecated
 
@@ -386,6 +399,9 @@ shipyard hai
 	"Violin Spider"
 	"Pond Strider"
 	"Flea"
+	"Centipede"
+	"Grasshopper"
+	"Geocoris"
 
 shipyard human
 	"Shuttle"
@@ -523,10 +539,15 @@ shipyard wanderer
 	"Derecho"
 	"Hurricane"
 	"Deep River Transport"
+	"Cool Breeze"
+	"Winter Gale"
 
 shipyard remnant
 	"Starling"
 	"Albatross"
+	"Gascraft"
+	"Pelican"
+	"Gull"
 
 shipyard void
 	"Void Sprite"
